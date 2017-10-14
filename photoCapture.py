@@ -10,7 +10,7 @@ app = Flask(__name__)
 @app.route('/', methods=['GET'])
 def triggerPhotoCapture():
     ''' Insert your photo capture logic here '''
-
+	
 
 
     ''' Once photos have been captured, call Esraa's function to post to Twitter '''
