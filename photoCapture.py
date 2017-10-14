@@ -3,7 +3,7 @@ from flask import Flask, request, Response, jsonify
 from PIL import Image
 from random import shuffle
 import json
-import nexmo
+#import nexmo
 import os
 import sys
 import time
@@ -20,7 +20,7 @@ def triggerPhotoCapture():
     time.sleep(5)
 
     os.system("gphoto2 --capture-image-and-download")
-    os.system(mv "capt0000.jpg 3.jpg")
+    os.system("mv capt0000.jpg 3.jpg")
     time.sleep(5)
 
     os.system("gphoto2 --capture-image-and-download")
