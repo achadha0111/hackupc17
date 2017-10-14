@@ -1,5 +1,4 @@
-import tweepy
-import os
+
 
 # Consumer keys and access tokens, used for OAuth
 consumer_key = 'iqnii4MjvqSXawfcIo3U5lxsK'
