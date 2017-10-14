@@ -24,7 +24,7 @@ print('Hola EU! MLH Photo booth had arrived!')
 # api.update_status('Hello Form RBI Lab!')
 
 # load image
-imagePath = "EsraaDandash/Desktop/mlh.jpg"
+imagePath = "out.png"
 status = "Hi MLH!"
 
 # Send the tweet.
