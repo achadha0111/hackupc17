@@ -8,8 +8,8 @@ As first time visitors to Barcelona, 2 of us were carrying DSLR cammeras and the
 
 # How to run this code
 
-You need to have Python Packages here [link](https://www.python.org/downloads/)
-Google Assistant SDK here [link](https://developers.google.com/assistant/sdk/)
-Tweepy here [link](http://www.tweepy.org)
-Raspberry Pi and its software can be found here [link](https://www.raspberrypi.org/downloads/)
-Twitter App here [link](https://apps.twitter.com)
+You need to have Python Packages [here](https://www.python.org/downloads/)
+Google Assistant SDK [here](https://developers.google.com/assistant/sdk/)
+Tweepy [here](http://www.tweepy.org)
+Raspberry Pi and its software can be found  [here](https://www.raspberrypi.org/downloads/)
+Twitter App [here](https://apps.twitter.com)
