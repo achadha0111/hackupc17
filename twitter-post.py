@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 import Tweepy
 import os
+=======
+
+>>>>>>> origin/master
 
 # Consumer keys and access tokens, used for OAuth
 consumer_key = 'iqnii4MjvqSXawfcIo3U5lxsK'
@@ -24,7 +28,7 @@ print('Hola EU! MLH Photo booth had arrived!')
 api.update_status('Hello Form RBI Lab!')
 
 # load image
-imagePath = "EsraaDandash/Desktop/mlh.jpg"
+imagePath = "out.png"
 status = "Hi MLH!"
 
 # Send the tweet.
