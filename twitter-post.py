@@ -1,4 +1,4 @@
-import tweepy
+import Tweepy
 import os
 
 # Consumer keys and access tokens, used for OAuth
@@ -21,7 +21,7 @@ print('Hola EU! MLH Photo booth had arrived!')
 
 
 # Sample method, used to update a status
-# api.update_status('Hello Form RBI Lab!')
+api.update_status('Hello Form RBI Lab!')
 
 # load image
 imagePath = "EsraaDandash/Desktop/mlh.jpg"
